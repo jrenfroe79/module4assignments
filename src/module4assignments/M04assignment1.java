@@ -52,4 +52,3 @@ public class M04assignment1 {
                 (opening == '[' && closing == ']');
     }
 }
-
